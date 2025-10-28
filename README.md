@@ -1,2 +1,2 @@
 # web
-Alerti AI Web
+Alertik AI Web
